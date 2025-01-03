@@ -9,7 +9,7 @@
 + [Админ панель](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#админ-панель-1)
 + [Клиент панель](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#клиент-панель-1)
 + [Частые вопросы](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#частые-вопросы)
-+ [Контакты]()
++ [Контакты](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#контакты)
 
 
 ## Вводная часть

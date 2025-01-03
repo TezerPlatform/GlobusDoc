@@ -4,15 +4,13 @@
 
 ### Оглавление
 
-+ [Вводная часть]()
-+ [Версия: V3.0-10.10.2024]()
-+ [Админ панель]()
-+ [Клиент панель]()
-+ [Частые вопросы]()
-<!-- + [Подключение системы оплаты в проект. Код]()
-+ [Безопастность]()
-+ [О контрактах]()
-+ [Контакты]() -->
++ [Вводная часть](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#вводная-часть)
++ [Версия: V3.0-10.10.2024](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#версия-v30-10102024)
++ [Админ панель](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#админ-панель-1)
++ [Клиент панель](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#клиент-панель-1)
++ [Частые вопросы](https://github.com/TezerPlatform/GlobusDoc?tab=readme-ov-file#частые-вопросы)
++ [Контакты]()
+
 
 ## Вводная часть
 ### Цель стартапа:
@@ -76,6 +74,9 @@ Globus или доверенное лицо.
   
   Если Вы удалили задание в клиентской панели, обратитесь в админу/директору, чтобы востновить задание из архива.
 
+## Контакты
 
++ [Telegram канал](https://t.me/globus_app)
++ [Поддержка в Telegram](https://t.me/tezermoder)
 
 
